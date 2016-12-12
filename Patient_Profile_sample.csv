@@ -1,0 +1,4 @@
+Patient_ID,Online_Follower,LinkedIn_Shared,Twitter_Shared,Facebook_Shared,Income,Education_Score,Age,First_Interaction,City_Type,Employer_Category
+516956,0,0,0,0,1,90,39,18-Jun-03,,Software Industry
+507733,0,0,0,0,1,None,40,20-Jul-03,H,Software Industry
+508307,0,0,0,0,3,87,46,02-Nov-02,D,BFSI
