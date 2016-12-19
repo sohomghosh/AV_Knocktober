@@ -1,7 +1,6 @@
 # Matching submitted outputs
 
-setwd('C:/Users/HP-PC/Desktop/Knocktober/Train')
-setwd("C:\\Users\\SatyakiBh\\Desktop\\AV-Knoctober\\backup")
+setwd("C:\\Users\\SohomG\\Desktop\\AV-Knoctober\\backup")
 camp_1 <- read.csv("First_Health_Camp_Attended.csv")
 camp_1$X = NULL
 camp_2 <- read.csv("Second_Health_Camp_Attended.csv")
